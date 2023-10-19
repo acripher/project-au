@@ -1,2 +1,2 @@
 # project-au
-Achipelago University Front-end Project
+Achipelago University Front-end Project.
